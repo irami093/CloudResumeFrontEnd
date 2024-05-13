@@ -1,0 +1,24 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  * {
+    max-width: 700px;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .title {
+    font-size: 17px;
+    color: darkgreen;
+  }
+  
+  div {
+    padding: 10px;
+  }
+
+  .footer {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+  }
